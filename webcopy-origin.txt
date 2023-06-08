@@ -1,0 +1,592 @@
+Uri: https://cdn.umso.co/hqqzhj62ez8m/assets/1k16ou49.svg
+File Name: C:\Downloaded Web Sites\www.umso.com\hqqzhj62ez8m\assets\1k16ou49.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.umso.co/hqqzhj62ez8m/assets/mxoofvds.svg
+File Name: C:\Downloaded Web Sites\www.umso.com\hqqzhj62ez8m\assets\mxoofvds.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Inter:400,600,700|Inter:400,500,600&display=fallback
+File Name: C:\Downloaded Web Sites\www.umso.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\www.umso.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\www.umso.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\www.umso.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\www.umso.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://landen.imgix.net/blog_wyiaKzAezQkPhMGC/assets/HICZosRHGIxpekfB.svg?w=880
+File Name: C:\Downloaded Web Sites\www.umso.com\blog_wyiaKzAezQkPhMGC\assets\HICZosRHGIxpekfB.svg
+Content Type: image/svg+xml
+
+Uri: https://landen.imgix.net/blog_wyiaKzAezQkPhMGC/assets/KOxplCWOWrpRMaZl.jpg?w=880
+File Name: C:\Downloaded Web Sites\www.umso.com\blog_wyiaKzAezQkPhMGC\assets\KOxplCWOWrpRMaZl.jpg
+Content Type: image/jpeg
+
+Uri: https://landen.imgix.net/blog_wyiaKzAezQkPhMGC/assets/XpEucBlNXQLLKiGD.svg?w=880
+File Name: C:\Downloaded Web Sites\www.umso.com\blog_wyiaKzAezQkPhMGC\assets\XpEucBlNXQLLKiGD.svg
+Content Type: image/svg+xml
+
+Uri: https://landen.imgix.net/blog_wyiaKzAezQkPhMGC/assets/YMxjFyPrPCavGflE.png?w=880
+File Name: C:\Downloaded Web Sites\www.umso.com\blog_wyiaKzAezQkPhMGC\assets\YMxjFyPrPCavGflE.png
+Content Type: image/png
+
+Uri: https://landen.imgix.net/blog_wyiaKzAezQkPhMGC/assets/zdRajCszResNcFEu.png?w=880
+File Name: C:\Downloaded Web Sites\www.umso.com\blog_wyiaKzAezQkPhMGC\assets\zdRajCszResNcFEu.png
+Content Type: image/png
+
+Uri: https://landen.imgix.net/hqqzhj62ez8m/assets/lyedj5hf.png?w=1200&h=900&fit=max
+File Name: C:\Downloaded Web Sites\www.umso.com\hqqzhj62ez8m\assets\lyedj5hf.png
+Content Type: image/png
+
+Uri: https://landen.imgix.net/hqqzhj62ez8m/assets/lyedj5hf.png?w=1200&h=900&fit=max&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\hqqzhj62ez8m\assets\lyedj5hf-1.png
+Content Type: image/png
+
+Uri: https://landen.imgix.net/hqqzhj62ez8m/assets/mecniiew.png?w=1200&h=900&fit=max
+File Name: C:\Downloaded Web Sites\www.umso.com\hqqzhj62ez8m\assets\mecniiew.png
+Content Type: image/png
+
+Uri: https://landen.imgix.net/hqqzhj62ez8m/assets/mecniiew.png?w=1200&h=900&fit=max&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\hqqzhj62ez8m\assets\mecniiew-1.png
+Content Type: image/png
+
+Uri: https://landen.imgix.net/hqqzhj62ez8m/assets/txg0354e.png?w=1200&h=900&fit=max
+File Name: C:\Downloaded Web Sites\www.umso.com\hqqzhj62ez8m\assets\txg0354e.png
+Content Type: image/png
+
+Uri: https://landen.imgix.net/hqqzhj62ez8m/assets/txg0354e.png?w=1200&h=900&fit=max&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\hqqzhj62ez8m\assets\txg0354e-1.png
+Content Type: image/png
+
+Uri: https://landen.imgix.net/hqqzhj62ez8m/assets/yhc8op8e.png?w=1200&h=900&fit=max
+File Name: C:\Downloaded Web Sites\www.umso.com\hqqzhj62ez8m\assets\yhc8op8e.png
+Content Type: image/png
+
+Uri: https://landen.imgix.net/hqqzhj62ez8m/assets/yhc8op8e.png?w=1200&h=900&fit=max&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\hqqzhj62ez8m\assets\yhc8op8e-1.png
+Content Type: image/png
+
+Uri: https://magician-widget.vercel.app/static/css/main.18064324.css
+File Name: C:\Downloaded Web Sites\www.umso.com\static\css\main.18064324.css
+Content Type: text/css
+
+Uri: https://magician-widget.vercel.app/static/js/main.9b83c7fae2fdafd44581.js
+File Name: C:\Downloaded Web Sites\www.umso.com\static\js\main.9b83c7fae2fdafd44581.js
+Content Type: application/javascript
+
+Uri: https://r.wdfl.co/rw.js
+File Name: C:\Downloaded Web Sites\www.umso.com\rw.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-VYY8D05ZV0
+File Name: C:\Downloaded Web Sites\www.umso.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.umso.com/
+File Name: C:\Downloaded Web Sites\www.umso.com\index.htm
+Content Type: text/html
+
+Uri: https://www.umso.com/?utm_source=litebadge
+File Name: C:\Downloaded Web Sites\www.umso.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.umso.com/analytics
+File Name: C:\Downloaded Web Sites\www.umso.com\analytics.html
+Content Type: text/html
+
+Uri: https://www.umso.com/blog
+File Name: C:\Downloaded Web Sites\www.umso.com\blog.html
+Content Type: text/html
+
+Uri: https://www.umso.com/blog/12-ai-tools-for-startup-growth
+File Name: C:\Downloaded Web Sites\www.umso.com\blog\12-ai-tools-for-startup-growth.html
+Content Type: text/html
+
+Uri: https://www.umso.com/blog/is-your-website-multilingual-yet-it-definitely-should-be
+File Name: C:\Downloaded Web Sites\www.umso.com\blog\is-your-website-multilingual-yet-it-definitely-should-be.html
+Content Type: text/html
+
+Uri: https://www.umso.com/blog/one-price-all-features-umso-pro
+File Name: C:\Downloaded Web Sites\www.umso.com\blog\one-price-all-features-umso-pro.html
+Content Type: text/html
+
+Uri: https://www.umso.com/blog/page/2
+File Name: C:\Downloaded Web Sites\www.umso.com\blog\page\2.html
+Content Type: text/html
+
+Uri: https://www.umso.com/blog/what-the-best-no-code-products-do-right-and-why-its-not-about-code
+File Name: C:\Downloaded Web Sites\www.umso.com\blog\what-the-best-no-code-products-do-right-and-why-its-not-about-code.html
+Content Type: text/html
+
+Uri: https://www.umso.com/blog/what-we-ve-been-working-on
+File Name: C:\Downloaded Web Sites\www.umso.com\blog\what-we-ve-been-working-on.html
+Content Type: text/html
+
+Uri: https://www.umso.com/contact
+File Name: C:\Downloaded Web Sites\www.umso.com\contact.html
+Content Type: text/html
+
+Uri: https://www.umso.com/cookie-consent-solution
+File Name: C:\Downloaded Web Sites\www.umso.com\cookie-consent-solution.html
+Content Type: text/html
+
+Uri: https://www.umso.com/css/x8zqt1cl3bsj-c467b533bf666a9a4b613c9aef469968c5c881e6.css
+File Name: C:\Downloaded Web Sites\www.umso.com\css\x8zqt1cl3bsj-c467b533bf666a9a4b613c9aef469968c5c881e6.css
+Content Type: text/css
+
+Uri: https://www.umso.com/custom-forms
+File Name: C:\Downloaded Web Sites\www.umso.com\custom-forms.html
+Content Type: text/html
+
+Uri: https://www.umso.com/de
+File Name: C:\Downloaded Web Sites\www.umso.com\de.html
+Content Type: text/html
+
+Uri: https://www.umso.com/de/analytics
+File Name: C:\Downloaded Web Sites\www.umso.com\de\analytics.html
+Content Type: text/html
+
+Uri: https://www.umso.com/de/beispiele
+File Name: C:\Downloaded Web Sites\www.umso.com\de\beispiele.html
+Content Type: text/html
+
+Uri: https://www.umso.com/de/benutzerdefinierte-formulare
+File Name: C:\Downloaded Web Sites\www.umso.com\de\benutzerdefinierte-formulare.html
+Content Type: text/html
+
+Uri: https://www.umso.com/de/cookie-consent-solution
+File Name: C:\Downloaded Web Sites\www.umso.com\de\cookie-consent-solution.html
+Content Type: text/html
+
+Uri: https://www.umso.com/de/editor
+File Name: C:\Downloaded Web Sites\www.umso.com\de\editor.html
+Content Type: text/html
+
+Uri: https://www.umso.com/de/faq
+File Name: C:\Downloaded Web Sites\www.umso.com\de\faq.html
+Content Type: text/html
+
+Uri: https://www.umso.com/de/features/blog
+File Name: C:\Downloaded Web Sites\www.umso.com\de\features\blog.html
+Content Type: text/html
+
+Uri: https://www.umso.com/de/generator
+File Name: C:\Downloaded Web Sites\www.umso.com\de\generator.html
+Content Type: text/html
+
+Uri: https://www.umso.com/de/hosting
+File Name: C:\Downloaded Web Sites\www.umso.com\de\hosting.html
+Content Type: text/html
+
+Uri: https://www.umso.com/de/kontakt
+File Name: C:\Downloaded Web Sites\www.umso.com\de\kontakt.html
+Content Type: text/html
+
+Uri: https://www.umso.com/de/mehrsprachige-webseiten
+File Name: C:\Downloaded Web Sites\www.umso.com\de\mehrsprachige-webseiten.html
+Content Type: text/html
+
+Uri: https://www.umso.com/de/partner
+File Name: C:\Downloaded Web Sites\www.umso.com\de\partner.html
+Content Type: text/html
+
+Uri: https://www.umso.com/de/preise
+File Name: C:\Downloaded Web Sites\www.umso.com\de\preise.html
+Content Type: text/html
+
+Uri: https://www.umso.com/dpa
+File Name: C:\Downloaded Web Sites\www.umso.com\dpa.html
+Content Type: text/html
+
+Uri: https://www.umso.com/editor
+File Name: C:\Downloaded Web Sites\www.umso.com\editor.html
+Content Type: text/html
+
+Uri: https://www.umso.com/email-lists
+File Name: C:\Downloaded Web Sites\www.umso.com\email-lists.html
+Content Type: text/html
+
+Uri: https://www.umso.com/faq
+File Name: C:\Downloaded Web Sites\www.umso.com\faq.html
+Content Type: text/html
+
+Uri: https://www.umso.com/features/blog
+File Name: C:\Downloaded Web Sites\www.umso.com\features\blog.html
+Content Type: text/html
+
+Uri: https://www.umso.com/generator
+File Name: C:\Downloaded Web Sites\www.umso.com\generator.html
+Content Type: text/html
+
+Uri: https://www.umso.com/hosting
+File Name: C:\Downloaded Web Sites\www.umso.com\hosting.html
+Content Type: text/html
+
+Uri: https://www.umso.com/lib_LUGoPiqXXlDptSWA/kgyhccvs0cnnidhv.png?w=64&h=64
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_LUGoPiqXXlDptSWA\kgyhccvs0cnnidhv.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_LUGoPiqXXlDptSWA/ovxyioluiz049klb.png?w=1200&h=900&fit=max
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_LUGoPiqXXlDptSWA\ovxyioluiz049klb.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_LUGoPiqXXlDptSWA/ovxyioluiz049klb.png?w=1200&h=900&fit=max&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_LUGoPiqXXlDptSWA\ovxyioluiz049klb-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_LUGoPiqXXlDptSWA/zsngkumy6c8h3afm.svg?w=144
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_LUGoPiqXXlDptSWA\zsngkumy6c8h3afm.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_ppHbngvSkiYmyFdO/cjsv4eobzhk8af5s.png?w=260&h=366&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_ppHbngvSkiYmyFdO\cjsv4eobzhk8af5s.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_ppHbngvSkiYmyFdO/cjsv4eobzhk8af5s.png?w=520&h=732&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_ppHbngvSkiYmyFdO\cjsv4eobzhk8af5s-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_ppHbngvSkiYmyFdO/puu51g9ox3xacsrz.png?w=260&h=366&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_ppHbngvSkiYmyFdO\puu51g9ox3xacsrz.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_ppHbngvSkiYmyFdO/puu51g9ox3xacsrz.png?w=520&h=732&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_ppHbngvSkiYmyFdO\puu51g9ox3xacsrz-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/3p28kr4zbc7qu2n6.svg?w=68&h=68
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\3p28kr4zbc7qu2n6.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/426efxr1eic2erc9.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\426efxr1eic2erc9.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/5z270422je65blw3.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\5z270422je65blw3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/8eo5471a50x9s4q1.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\8eo5471a50x9s4q1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/8eo5471a50x9s4q1.svg?w=68&h=68
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\8eo5471a50x9s4q1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/cwtl1wzb1qf2ip6z.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\cwtl1wzb1qf2ip6z.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/cxb5rfbmqqbr81ux.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\cxb5rfbmqqbr81ux.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/e4uan8ja5h2be8ej.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\e4uan8ja5h2be8ej-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/e4uan8ja5h2be8ej.svg?w=68&h=68
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\e4uan8ja5h2be8ej.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/elyeujrif8qy8vii.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\elyeujrif8qy8vii.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/i0othfmoag0t9iv2.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\i0othfmoag0t9iv2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/jsxz5k3hs0di11z0.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\jsxz5k3hs0di11z0.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/lesuoowpga1l5stc.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\lesuoowpga1l5stc-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/lesuoowpga1l5stc.svg?w=68&h=68
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\lesuoowpga1l5stc.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/n138fztx6uue7bzs.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\n138fztx6uue7bzs.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/np0elav10l5dsmii.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\np0elav10l5dsmii.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/nzfvfzfddis894br.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\nzfvfzfddis894br.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/usdieeg6mkam6gzs.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\usdieeg6mkam6gzs.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/vsy6yuhk74w0mfw3.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\vsy6yuhk74w0mfw3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/x6fhzzaw7c7e3m53.svg?w=48&h=48
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\x6fhzzaw7c7e3m53-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/x6fhzzaw7c7e3m53.svg?w=68&h=68
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\x6fhzzaw7c7e3m53.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_tmrSuwTUuNYuynRO/xuwbjsmymij793ue.svg?w=68&h=68
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_tmrSuwTUuNYuynRO\xuwbjsmymij793ue.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/0bndaxwt6l60f3ml.svg?w=140&h=140
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\0bndaxwt6l60f3ml.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/2g8xmgygg3otvbuv.svg?w=140&h=140
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\2g8xmgygg3otvbuv.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/2syn2uczzxi2ih9o.png?w=1200&h=900&fit=max
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\2syn2uczzxi2ih9o.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/2syn2uczzxi2ih9o.png?w=1200&h=900&fit=max&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\2syn2uczzxi2ih9o-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/3a5cddn9uoi9yzxt.svg?w=140&h=140
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\3a5cddn9uoi9yzxt.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/5r4oc9yukzgn8b8w.mp4
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\5r4oc9yukzgn8b8w.mp4
+Content Type: video/mp4
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/9fvis116j61gtugy.png?w=260&h=366&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\9fvis116j61gtugy.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/9fvis116j61gtugy.png?w=520&h=732&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\9fvis116j61gtugy-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/9yers9qznmvmbpyj.png?w=260&h=366&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\9yers9qznmvmbpyj.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/9yers9qznmvmbpyj.png?w=520&h=732&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\9yers9qznmvmbpyj-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/artpe9i5av2i5ubd.png?w=260&h=366&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\artpe9i5av2i5ubd.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/artpe9i5av2i5ubd.png?w=520&h=732&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\artpe9i5av2i5ubd-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/b9ehexqctal1kutw.mp4
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\b9ehexqctal1kutw.mp4
+Content Type: video/mp4
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/c1fi5ctmlov88q56.png?w=1200&h=900&fit=max
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\c1fi5ctmlov88q56.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/c1fi5ctmlov88q56.png?w=1200&h=900&fit=max&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\c1fi5ctmlov88q56-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/cd00o3p97h0jb94b.png?w=260&h=366&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\cd00o3p97h0jb94b.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/cd00o3p97h0jb94b.png?w=520&h=732&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\cd00o3p97h0jb94b-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/d4h6p799x3uu3946.png?w=1200&h=900&fit=max
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\d4h6p799x3uu3946.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/d4h6p799x3uu3946.png?w=1200&h=900&fit=max&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\d4h6p799x3uu3946-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/djneml0o5uc7mjpp.png?w=260&h=366&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\djneml0o5uc7mjpp.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/djneml0o5uc7mjpp.png?w=520&h=732&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\djneml0o5uc7mjpp-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/dod4uf2jzflk15qm.png?w=260&h=366&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\dod4uf2jzflk15qm.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/dod4uf2jzflk15qm.png?w=520&h=732&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\dod4uf2jzflk15qm-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/e4bkrebhkzaevnia.png?w=1200&h=900&fit=max
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\e4bkrebhkzaevnia.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/e4bkrebhkzaevnia.png?w=1200&h=900&fit=max&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\e4bkrebhkzaevnia-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/e71askcswhzz9lft.svg?w=140&h=140
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\e71askcswhzz9lft.svg
+Content Type: image/svg+xml
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/fb1bfe5bzdawb032.png?w=642&h=400&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\fb1bfe5bzdawb032.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/fb1bfe5bzdawb032.png?w=642&h=400&fit=crop&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\fb1bfe5bzdawb032-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/no281v2132sm2fbb.png?w=260&h=366&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\no281v2132sm2fbb.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/no281v2132sm2fbb.png?w=520&h=732&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\no281v2132sm2fbb-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/q4v100mfa0ri11ca.png?w=1200&h=900&fit=max
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\q4v100mfa0ri11ca.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/q4v100mfa0ri11ca.png?w=1200&h=900&fit=max&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\q4v100mfa0ri11ca-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/q6yat3a98b05the9.png?w=260&h=366&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\q6yat3a98b05the9.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/q6yat3a98b05the9.png?w=520&h=732&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\q6yat3a98b05the9-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/qhdqt5gke71x1xdv.png?w=1200&h=900&fit=max
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\qhdqt5gke71x1xdv.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/qhdqt5gke71x1xdv.png?w=1200&h=900&fit=max&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\qhdqt5gke71x1xdv-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/r1wcoeao9kau87pd.jpg?w=1200&h=900&fit=max
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\r1wcoeao9kau87pd.jpg
+Content Type: image/jpeg
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/r1wcoeao9kau87pd.jpg?w=1200&h=900&fit=max&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\r1wcoeao9kau87pd-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/rcn650i1ezrg6n5y.png?w=1200&h=900&fit=max
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\rcn650i1ezrg6n5y.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/rcn650i1ezrg6n5y.png?w=1200&h=900&fit=max&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\rcn650i1ezrg6n5y-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/rqxv39orc1p95o71.png?w=1200&h=900&fit=max
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\rqxv39orc1p95o71.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/rqxv39orc1p95o71.png?w=1200&h=900&fit=max&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\rqxv39orc1p95o71-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/w4gm3lx3hr8cxfs0.png?w=260&h=366&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\w4gm3lx3hr8cxfs0.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/w4gm3lx3hr8cxfs0.png?w=520&h=732&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\w4gm3lx3hr8cxfs0-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/w9g6qr1f19m5eiwa.png?w=260&h=366&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\w9g6qr1f19m5eiwa.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/w9g6qr1f19m5eiwa.png?w=520&h=732&fit=crop
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\w9g6qr1f19m5eiwa-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_uKHflxJGsjrjWGxc/wmk6q35yfwv8ly8h.mp4
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_uKHflxJGsjrjWGxc\wmk6q35yfwv8ly8h.mp4
+Content Type: video/mp4
+
+Uri: https://www.umso.com/lib_ZRoFLannfuQMSZCe/4svltycxxercxrps.mp4
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_ZRoFLannfuQMSZCe\4svltycxxercxrps.mp4
+Content Type: video/mp4
+
+Uri: https://www.umso.com/lib_ZRoFLannfuQMSZCe/8eube3aldq48pnau.png?w=1200&h=900&fit=max
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_ZRoFLannfuQMSZCe\8eube3aldq48pnau.png
+Content Type: image/png
+
+Uri: https://www.umso.com/lib_ZRoFLannfuQMSZCe/8eube3aldq48pnau.png?w=1200&h=900&fit=max&dpr=2
+File Name: C:\Downloaded Web Sites\www.umso.com\lib_ZRoFLannfuQMSZCe\8eube3aldq48pnau-1.png
+Content Type: image/png
+
+Uri: https://www.umso.com/multilingual-websites
+File Name: C:\Downloaded Web Sites\www.umso.com\multilingual-websites.html
+Content Type: text/html
+
+Uri: https://www.umso.com/partners
+File Name: C:\Downloaded Web Sites\www.umso.com\partners.html
+Content Type: text/html
+
+Uri: https://www.umso.com/pricing
+File Name: C:\Downloaded Web Sites\www.umso.com\pricing.html
+Content Type: text/html
+
+Uri: https://www.umso.com/privacy
+File Name: C:\Downloaded Web Sites\www.umso.com\privacy.html
+Content Type: text/html
+
+Uri: https://www.umso.com/security
+File Name: C:\Downloaded Web Sites\www.umso.com\security.html
+Content Type: text/html
+
+Uri: https://www.umso.com/showcase
+File Name: C:\Downloaded Web Sites\www.umso.com\showcase.html
+Content Type: text/html
+
+Uri: https://www.umso.com/terms
+File Name: C:\Downloaded Web Sites\www.umso.com\terms.html
+Content Type: text/html
+
+Uri: https://www.umso.com/the-umso-brand
+File Name: C:\Downloaded Web Sites\www.umso.com\the-umso-brand.html
+Content Type: text/html
+
+Uri: https://www.umso.com/user-management
+File Name: C:\Downloaded Web Sites\www.umso.com\user-management.html
+Content Type: text/html
+
